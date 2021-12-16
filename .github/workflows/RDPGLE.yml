@@ -1,5 +1,5 @@
 Chave: NGROK_AUTH_TOKEN
-name: amazon_RDP
+name: amazonRDP
 
 on: workflow_dispatch
 
